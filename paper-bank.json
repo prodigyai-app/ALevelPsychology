@@ -1,0 +1,2242 @@
+{
+  "base": [
+    {
+      "id": "aqa-psych-set1-p1",
+      "title": "Set 1 · Introductory topics in Psychology",
+      "subject": "Psychology",
+      "paper": 1,
+      "tier": "A Level",
+      "minutes": 120,
+      "marks": 96,
+      "coverage": [
+        "Social influence",
+        "Memory",
+        "Attachment",
+        "Clinical Psychology and Mental Health"
+      ],
+      "questions": [
+        {
+          "title": "Social influence",
+          "topic": "social",
+          "stem": "<p>In a team meeting, everyone initially supports an answer. One person then disagrees and a second person feels able to voice their doubts.</p>",
+          "parts": [
+            {
+              "q": "In a separate fictional conformity task, 18 of 30 participants change their answer. Calculate the percentage.",
+              "m": 2,
+              "mathMarks": 2,
+              "ms": [
+                "Use 18 / 30 × 100.",
+                "60 %."
+              ],
+              "answer": 60,
+              "unit": "%",
+              "tolerance": 0
+            },
+            {
+              "q": "Use your knowledge of resistance to social influence to explain this change.",
+              "m": 6,
+              "ms": [],
+              "lor": [
+                [
+                  "5–6",
+                  "Accurate psychological explanation with clear, developed links to the example."
+                ],
+                [
+                  "3–4",
+                  "Some accurate explanation and application, but links are uneven or incomplete."
+                ],
+                [
+                  "1–2",
+                  "Limited knowledge or brief application; mostly labels or assertions."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Social support offers a model of disagreement.",
+                "A dissenter weakens unanimity.",
+                "The second person may feel less exposed to majority pressure.",
+                "Link these processes to the meeting rather than assuming a private belief change."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            },
+            {
+              "q": "Discuss explanations for obedience.",
+              "m": 16,
+              "ms": [],
+              "lor": [
+                [
+                  "13–16",
+                  "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+                ],
+                [
+                  "9–12",
+                  "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+                ],
+                [
+                  "5–8",
+                  "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+                ],
+                [
+                  "1–4",
+                  "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Define obedience and distinguish it from conformity.",
+                "Explain agentic state and legitimacy of authority.",
+                "Explain relevant situational variables and a dispositional account.",
+                "Use evidence about proximity, setting, uniform or personality with appropriate methodological evaluation.",
+                "Compare explanatory scope and avoid treating an influence as inevitability."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            }
+          ]
+        },
+        {
+          "title": "Memory",
+          "topic": "memory",
+          "stem": "<p>A witness discusses an incident with another witness. At interview, they report a detail that appeared only in that conversation.</p>",
+          "parts": [
+            {
+              "q": "In a separate fictional recall comparison, the mean rises from 4 words to 6 words. Calculate the percentage increase.",
+              "m": 2,
+              "mathMarks": 2,
+              "ms": [
+                "Use (6 − 4) / 4 × 100.",
+                "50 %."
+              ],
+              "answer": 50,
+              "unit": "%",
+              "tolerance": 0
+            },
+            {
+              "q": "Explain how post-event discussion could affect the witness’s account.",
+              "m": 6,
+              "ms": [],
+              "lor": [
+                [
+                  "5–6",
+                  "Accurate psychological explanation with clear, developed links to the example."
+                ],
+                [
+                  "3–4",
+                  "Some accurate explanation and application, but links are uneven or incomplete."
+                ],
+                [
+                  "1–2",
+                  "Limited knowledge or brief application; mostly labels or assertions."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Another person’s report supplies post-event information.",
+                "The source of a detail may become confused with the witnessed event.",
+                "Reconstruction or social influence may contribute to the later report.",
+                "A brief example does not establish which mechanism occurred; interview wording and other exposure matter."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            },
+            {
+              "q": "Discuss the working memory model.",
+              "m": 16,
+              "ms": [],
+              "lor": [
+                [
+                  "13–16",
+                  "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+                ],
+                [
+                  "9–12",
+                  "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+                ],
+                [
+                  "5–8",
+                  "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+                ],
+                [
+                  "1–4",
+                  "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Explain the central executive, phonological loop, visuo-spatial sketchpad and episodic buffer.",
+                "Distinguish stores, rehearsal and active processing.",
+                "Use dual-task or clinical evidence with attention to alternative explanations.",
+                "Evaluate the specification and testability of the executive and task validity."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            }
+          ]
+        },
+        {
+          "title": "Attachment",
+          "topic": "attachment",
+          "stem": "<p>A researcher compares attachment observations from settings in which routine separation from caregivers differs greatly.</p>",
+          "parts": [
+            {
+              "q": "A separate fictional observation classifies 12 of 40 caregiver-child pairs in one category. Calculate the percentage.",
+              "m": 2,
+              "mathMarks": 2,
+              "ms": [
+                "Use 12 / 40 × 100.",
+                "30 %."
+              ],
+              "answer": 30,
+              "unit": "%",
+              "tolerance": 0
+            },
+            {
+              "q": "Explain why cultural validity matters in this comparison.",
+              "m": 6,
+              "ms": [],
+              "lor": [
+                [
+                  "5–6",
+                  "Accurate psychological explanation with clear, developed links to the example."
+                ],
+                [
+                  "3–4",
+                  "Some accurate explanation and application, but links are uneven or incomplete."
+                ],
+                [
+                  "1–2",
+                  "Limited knowledge or brief application; mostly labels or assertions."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Separation can have different familiarity and meaning.",
+                "A common procedure may impose one setting’s standard.",
+                "Interpret patterns of reunion and exploration rather than distress alone.",
+                "Consider within-setting variation and the sample, not only national averages."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            },
+            {
+              "q": "Discuss the effects of institutionalisation on attachment and later development.",
+              "m": 16,
+              "ms": [],
+              "lor": [
+                [
+                  "13–16",
+                  "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+                ],
+                [
+                  "9–12",
+                  "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+                ],
+                [
+                  "5–8",
+                  "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+                ],
+                [
+                  "1–4",
+                  "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Distinguish institutional disadvantage, separation and deprivation.",
+                "Explain relevant findings from the English and Romanian Adoptees project.",
+                "Consider timing, recovery and continuing difficulties.",
+                "Evaluate confounding variables, longitudinal methods and generalisation.",
+                "Avoid deterministic predictions about an individual child."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            }
+          ]
+        },
+        {
+          "title": "Clinical Psychology and Mental Health",
+          "topic": "clinical",
+          "stem": "<p>A student interprets one disappointing result as proof that they are worthless, that other people will reject them and that nothing will improve.</p>",
+          "parts": [
+            {
+              "q": "In a separate fictional dataset, a mean symptom score falls from 20 to 14. Calculate the percentage decrease. This calculation alone does not show treatment effectiveness.",
+              "m": 2,
+              "mathMarks": 2,
+              "ms": [
+                "Use (20 − 14) / 20 × 100.",
+                "30 %."
+              ],
+              "answer": 30,
+              "unit": "%",
+              "tolerance": 0
+            },
+            {
+              "q": "Explain this example using Beck’s account of depression.",
+              "m": 6,
+              "ms": [],
+              "lor": [
+                [
+                  "5–6",
+                  "Accurate psychological explanation with clear, developed links to the example."
+                ],
+                [
+                  "3–4",
+                  "Some accurate explanation and application, but links are uneven or incomplete."
+                ],
+                [
+                  "1–2",
+                  "Limited knowledge or brief application; mostly labels or assertions."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Negative view of self is illustrated by worthlessness.",
+                "Negative view of the world includes expectations of rejection.",
+                "Negative view of the future includes expecting no improvement.",
+                "Explain how negative schemas or biased processing could maintain this interpretation; do not diagnose from the vignette."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            },
+            {
+              "q": "Discuss the cognitive approach to explaining and treating depression.",
+              "m": 16,
+              "ms": [],
+              "lor": [
+                [
+                  "13–16",
+                  "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+                ],
+                [
+                  "9–12",
+                  "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+                ],
+                [
+                  "5–8",
+                  "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+                ],
+                [
+                  "1–4",
+                  "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Explain Beck’s schemas, biases and negative triad.",
+                "Explain Ellis’s ABC model.",
+                "Explain how CBT addresses relevant thinking and behaviour.",
+                "Evaluate evidence, causality, engagement and appropriateness.",
+                "Distinguish treatment success from proof of a complete causal account."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aqa-psych-set1-p2",
+      "title": "Set 1 · Psychology in context",
+      "subject": "Psychology",
+      "paper": 2,
+      "tier": "A Level",
+      "minutes": 120,
+      "marks": 96,
+      "coverage": [
+        "Approaches",
+        "Biopsychology",
+        "Research methods: 48 marks"
+      ],
+      "questions": [
+        {
+          "title": "Approaches in Psychology",
+          "topic": "approaches",
+          "stem": "<p>A learner watches a respected model receive praise for a strategy, remembers the steps and later uses the strategy.</p>",
+          "parts": [
+            {
+              "q": "A separate fictional modelling task records 20 imitations in one condition and 5 in another. Express the ratio as x:1 and calculate x.",
+              "m": 2,
+              "mathMarks": 2,
+              "ms": [
+                "Use 20 / 5.",
+                "4 :1."
+              ],
+              "answer": 4,
+              "unit": ":1",
+              "tolerance": 0
+            },
+            {
+              "q": "Explain the example using social learning theory.",
+              "m": 6,
+              "ms": [],
+              "lor": [
+                [
+                  "5–6",
+                  "Accurate psychological explanation with clear, developed links to the example."
+                ],
+                [
+                  "3–4",
+                  "Some accurate explanation and application, but links are uneven or incomplete."
+                ],
+                [
+                  "1–2",
+                  "Limited knowledge or brief application; mostly labels or assertions."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Identification or attention to the model.",
+                "Retention of the steps.",
+                "Vicarious reinforcement increases motivation.",
+                "Ability to reproduce and later performance should be distinguished from initial learning."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            },
+            {
+              "q": "Discuss social learning theory as an explanation of behaviour.",
+              "m": 16,
+              "ms": [],
+              "lor": [
+                [
+                  "13–16",
+                  "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+                ],
+                [
+                  "9–12",
+                  "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+                ],
+                [
+                  "5–8",
+                  "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+                ],
+                [
+                  "1–4",
+                  "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Explain modelling, identification and vicarious reinforcement.",
+                "Explain mediational processes and the distinction between learning and performance.",
+                "Use modelling evidence critically.",
+                "Evaluate demand effects, generalisation and the role of cognition.",
+                "Make a developed comparison with another relevant approach."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            }
+          ]
+        },
+        {
+          "title": "Biopsychology",
+          "topic": "biopsych",
+          "stem": "<p>A researcher needs to compare responses immediately after a stimulus and also identify which brain regions are involved.</p>",
+          "parts": [
+            {
+              "q": "A recording interval in a separate fictional brain study is 0.25 seconds. Convert it to milliseconds.",
+              "m": 2,
+              "mathMarks": 2,
+              "ms": [
+                "Use 0.25 × 1000.",
+                "250 ms."
+              ],
+              "answer": 250,
+              "unit": "ms",
+              "tolerance": 0
+            },
+            {
+              "q": "Explain why different brain methods may be useful.",
+              "m": 6,
+              "ms": [],
+              "lor": [
+                [
+                  "5–6",
+                  "Accurate psychological explanation with clear, developed links to the example."
+                ],
+                [
+                  "3–4",
+                  "Some accurate explanation and application, but links are uneven or incomplete."
+                ],
+                [
+                  "1–2",
+                  "Limited knowledge or brief application; mostly labels or assertions."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "EEG or ERP offers fine temporal information.",
+                "An ERP relates averaged activity to a particular event.",
+                "fMRI offers useful spatial information using an indirect blood-related signal.",
+                "Explain the complementary limitations rather than claiming either method is perfect."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            },
+            {
+              "q": "Discuss localisation of function and functional recovery in the brain.",
+              "m": 16,
+              "ms": [],
+              "lor": [
+                [
+                  "13–16",
+                  "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+                ],
+                [
+                  "9–12",
+                  "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+                ],
+                [
+                  "5–8",
+                  "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+                ],
+                [
+                  "1–4",
+                  "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Explain relevant cortical functions and distributed communication.",
+                "Distinguish localisation from hemispheric lateralisation.",
+                "Explain plasticity and possible recovery processes.",
+                "Evaluate imaging and clinical evidence, causal inference and individual variation.",
+                "Do not equate plasticity with guaranteed full recovery."
+              ],
+              "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            }
+          ]
+        },
+        {
+          "title": "Research methods · Measurement",
+          "stem": "<p>A researcher records study condition as music or silence and correct-word counts as whole numbers.</p>",
+          "parts": [
+            {
+              "q": "What is the level of measurement of the study-condition variable?",
+              "m": 1,
+              "ms": [
+                "Nominal."
+              ],
+              "opts": [
+                "Nominal",
+                "Ordinal",
+                "Interval",
+                "A correlation coefficient"
+              ],
+              "a": 0
+            },
+            {
+              "q": "Which design uses the same participants in both conditions?",
+              "m": 1,
+              "ms": [
+                "Repeated measures."
+              ],
+              "opts": [
+                "Independent groups",
+                "Repeated measures",
+                "Opportunity sampling",
+                "Naturalistic observation"
+              ],
+              "a": 1
+            },
+            {
+              "q": "Which procedure distributes practice effects across two task orders?",
+              "m": 1,
+              "ms": [
+                "Counterbalancing."
+              ],
+              "opts": [
+                "Stratified sampling",
+                "Inter-observer checking",
+                "Counterbalancing",
+                "Debriefing"
+              ],
+              "a": 2
+            },
+            {
+              "q": "Which error is rejecting a true null hypothesis?",
+              "m": 1,
+              "ms": [
+                "Type I error."
+              ],
+              "opts": [
+                "A sampling frame",
+                "A Type II error",
+                "A directional hypothesis",
+                "A Type I error"
+              ],
+              "a": 3
+            }
+          ]
+        },
+        {
+          "title": "Research methods · Descriptive data",
+          "stem": "<p>Five recall scores are 2, 4, 4, 6 and 9.</p>",
+          "parts": [
+            {
+              "q": "Calculate the mean. Show your working.",
+              "m": 2,
+              "ms": [
+                "Sum = 25.",
+                "Mean = 25 / 5 = 5."
+              ],
+              "answer": 5,
+              "tolerance": 0,
+              "mathMarks": 2
+            },
+            {
+              "q": "Calculate the range. Show your working.",
+              "m": 2,
+              "ms": [
+                "Use highest minus lowest: 9 − 2.",
+                "Range = 7."
+              ],
+              "answer": 7,
+              "tolerance": 0,
+              "mathMarks": 2
+            }
+          ]
+        },
+        {
+          "title": "Research methods · Sign test",
+          "stem": "<p>Twelve participants complete two recall conditions. Eight improve, two decline and two have tied scores.</p>",
+          "parts": [
+            {
+              "q": "State N and S for the usual sign-test procedure and explain how ties are handled.",
+              "m": 4,
+              "ms": [
+                "Exclude the two zero differences.",
+                "N = 10 non-tied pairs.",
+                "S = 2, the less frequent sign.",
+                "For a directional prediction, also check the observed direction before applying a critical-value table."
+              ],
+              "mathMarks": 4
+            }
+          ]
+        },
+        {
+          "title": "Research methods · Inference",
+          "stem": "<p>For the appropriate one-tailed sign-test comparison at the 5% level, the supplied critical value is S = 1 for N = 10. The observed S is 2 and the direction matches the prediction.</p>",
+          "parts": [
+            {
+              "q": "Explain the decision and what it does and does not establish.",
+              "m": 6,
+              "ms": [
+                "For this sign-test table significance requires S at or below the critical value.",
+                "Observed 2 is above critical 1.",
+                "Fail to reject the null hypothesis at this threshold.",
+                "The result does not meet the stated significance criterion.",
+                "This does not prove the true effect is zero.",
+                "It does not by itself establish practical importance or causation."
+              ],
+              "mathMarks": 6
+            }
+          ]
+        },
+        {
+          "title": "Research methods · Validity",
+          "stem": "<p>The music group always completes the task in the afternoon and the silence group always completes it in the morning.</p>",
+          "parts": [
+            {
+              "q": "Explain the threat to validity and propose a suitable improvement.",
+              "m": 6,
+              "ms": [
+                "Time of day varies systematically with condition.",
+                "It is a possible confound.",
+                "A difference might reflect time of day rather than music.",
+                "Distribute times across conditions or hold timing constant where feasible.",
+                "Use random allocation or a suitably counterbalanced related design as appropriate.",
+                "Explain how the revised comparison separates the proposed music effect from timing."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Research methods · Ethics",
+          "stem": "<p>A proposed memory study would collect names and sensitive personal disclosures unrelated to its hypothesis.</p>",
+          "parts": [
+            {
+              "q": "Explain two changes that improve the ethical design.",
+              "m": 4,
+              "ms": [
+                "Avoid collecting unnecessary sensitive information.",
+                "Explain data minimisation in relation to the task.",
+                "Use suitable participant information, consent, withdrawal and confidentiality arrangements.",
+                "Explain one relevant safeguard rather than merely naming an ethical issue."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Research methods · Pilot",
+          "stem": "<p>A pilot shows a word list is so easy that almost everyone recalls every item.</p>",
+          "parts": [
+            {
+              "q": "Explain what the pilot reveals and how the procedure could be improved.",
+              "m": 4,
+              "ms": [
+                "A ceiling effect limits meaningful variation.",
+                "Condition differences may be hard to detect.",
+                "Use a more suitable list, delay or difficulty after ethical piloting.",
+                "Keep the revised procedure consistent across conditions so difficulty does not become a confound."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Research methods · Scientific evidence",
+          "stem": "<p>A laboratory result fails to appear in a preregistered follow-up. The original researchers had explored several analyses before choosing the one they reported.</p>",
+          "parts": [
+            {
+              "q": "Explain two ways transparent reporting and replication help interpret these findings.",
+              "m": 4,
+              "ms": [
+                "Transparent reporting distinguishes planned tests from exploratory analysis.",
+                "Apply this distinction to the selection of one favourable analysis in the original study.",
+                "Replication assesses the robustness and scope of a finding.",
+                "Apply this to the discrepancy: it calls for investigation of methods, context and chance rather than automatically proving either study fraudulent."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Research methods · Design a study",
+          "stem": "<p>Plan an ethical investigation of the effect of background music on recall of a neutral word list. Use adult volunteers, avoid sensitive personal information and do not collect identifying details.</p>",
+          "parts": [
+            {
+              "q": "Describe a suitable design and explain how your procedure would provide an interpretable comparison.",
+              "m": 12,
+              "ms": [],
+              "lor": [
+                [
+                  "9–12",
+                  "Detailed, feasible and coherent design; relevant decisions are applied and justified throughout."
+                ],
+                [
+                  "5–8",
+                  "Generally appropriate applied design with some explanation, but important details or justifications are missing."
+                ],
+                [
+                  "1–4",
+                  "Limited or fragmented design; few applied details and weak control of alternative explanations."
+                ],
+                [
+                  "0",
+                  "No creditworthy material."
+                ]
+              ],
+              "ind": [
+                "Operationalise music/silence and a measurable recall score at a fixed delay.",
+                "Justify an independent-groups or repeated-measures design.",
+                "Explain allocation or counterbalancing and address equivalent word lists.",
+                "Specify a feasible sample, recruitment and standardised instructions.",
+                "Control timing, volume, exposure and other plausible confounds.",
+                "Plan consent, withdrawal, debriefing and appropriate data handling.",
+                "Describe recording, a suitable descriptive summary and a justified inferential comparison.",
+                "State limits to generalisation and causal inference."
+              ],
+              "note": "Original Prodigy indicative scheme · AO2 12 marks: credit an applied, coherent design rather than a list of disconnected labels.. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": {
+    "title": "Issues and debates",
+    "topic": "debates",
+    "stem": "<p>A questionnaire developed in one culture is translated literally without checking whether its concepts carry the same meaning.</p>",
+    "parts": [
+      {
+        "q": "Nine of fifteen fictional follow-up studies show an effect in the predicted direction. Calculate the percentage.",
+        "m": 2,
+        "mathMarks": 2,
+        "ms": [
+          "Use 9 / 15 × 100.",
+          "60 %."
+        ],
+        "answer": 60,
+        "unit": "%",
+        "tolerance": 0
+      },
+      {
+        "q": "Explain how a relevant psychological account could interpret this example.",
+        "m": 6,
+        "ms": [],
+        "lor": [
+          [
+            "5–6",
+            "Accurate psychological explanation with clear, developed links to the example."
+          ],
+          [
+            "3–4",
+            "Some accurate explanation and application, but links are uneven or incomplete."
+          ],
+          [
+            "1–2",
+            "Limited knowledge or brief application; mostly labels or assertions."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "A supposedly universal explanation requires evidence beyond an unjustifiably narrow sample.",
+          "Translation alone may not establish cultural validity; an imposed standard can change what the scores represent.",
+          "Explain the mechanism and link it to a specific detail in the example.",
+          "State a relevant limit or alternative without assuming the example proves the explanation."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      },
+      {
+        "q": "Discuss the nature-nurture debate, using examples from Psychology.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Define nature and nurture in terms of biological and environmental influences.",
+          "Explain interactionism using psychological examples.",
+          "Use research evidence to evaluate simple single-factor accounts.",
+          "Consider methodological difficulty in separating inherited and environmental influences.",
+          "Reach a justified, appropriately qualified conclusion."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    ]
+  },
+  "options": {
+    "relationships": {
+      "title": "Relationships",
+      "topic": "relationships",
+      "stem": "<p>Two people meet through similar social circumstances and later value shared attitudes.</p>",
+      "parts": [
+        {
+          "q": "In a separate fictional survey, 18 of 24 respondents identify a shared attitude. Calculate the percentage.",
+          "m": 2,
+          "mathMarks": 2,
+          "ms": [
+            "Use 18 / 24 × 100.",
+            "75 %."
+          ],
+          "answer": 75,
+          "unit": "%",
+          "tolerance": 0
+        },
+        {
+          "q": "Explain how a relevant psychological account could interpret this example.",
+          "m": 6,
+          "ms": [],
+          "lor": [
+            [
+              "5–6",
+              "Accurate psychological explanation with clear, developed links to the example."
+            ],
+            [
+              "3–4",
+              "Some accurate explanation and application, but links are uneven or incomplete."
+            ],
+            [
+              "1–2",
+              "Limited knowledge or brief application; mostly labels or assertions."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Factors affecting initial attraction need not be identical to factors maintaining a long-term relationship.",
+            "The pattern can be discussed using demographic and attitude filters, without claiming that the theory uniquely explains their relationship.",
+            "Explain the mechanism and link it to a specific detail in the example.",
+            "State a relevant limit or alternative without assuming the example proves the explanation."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        },
+        {
+          "q": "Discuss theories of romantic relationships.",
+          "m": 16,
+          "ms": [],
+          "lor": [
+            [
+              "13–16",
+              "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+            ],
+            [
+              "9–12",
+              "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+            ],
+            [
+              "1–4",
+              "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Explain social exchange, equity and the investment model.",
+            "Distinguish satisfaction, fairness and commitment.",
+            "Use relevant evidence and consider retrospective or correlational designs.",
+            "Evaluate cultural applicability and explanatory scope."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        }
+      ]
+    },
+    "gender": {
+      "title": "Gender",
+      "topic": "gender",
+      "stem": "<p>A participant endorses traits historically described as both masculine and feminine on a self-report inventory.</p>",
+      "parts": [
+        {
+          "q": "In a separate fictional trait-inventory exercise, 12 of 30 participants endorse both sets of traits. Calculate the percentage. The result does not determine anyone’s identity.",
+          "m": 2,
+          "mathMarks": 2,
+          "ms": [
+            "Use 12 / 30 × 100.",
+            "40 %."
+          ],
+          "answer": 40,
+          "unit": "%",
+          "tolerance": 0
+        },
+        {
+          "q": "Explain how a relevant psychological account could interpret this example.",
+          "m": 6,
+          "ms": [],
+          "lor": [
+            [
+              "5–6",
+              "Accurate psychological explanation with clear, developed links to the example."
+            ],
+            [
+              "3–4",
+              "Some accurate explanation and application, but links are uneven or incomplete."
+            ],
+            [
+              "1–2",
+              "Limited knowledge or brief application; mostly labels or assertions."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Biological sex characteristics and gender identity are distinct concepts.",
+            "The score concerns the inventory’s gender-typed trait dimensions; it does not directly determine the participant’s biological sex or identity.",
+            "Explain the mechanism and link it to a specific detail in the example.",
+            "State a relevant limit or alternative without assuming the example proves the explanation."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        },
+        {
+          "q": "Discuss cognitive explanations of gender development.",
+          "m": 16,
+          "ms": [],
+          "lor": [
+            [
+              "13–16",
+              "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+            ],
+            [
+              "9–12",
+              "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+            ],
+            [
+              "1–4",
+              "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Explain Kohlberg’s identity, stability and constancy distinctions.",
+            "Explain gender schemas and their effects on processing.",
+            "Compare predictions about cognition and behaviour.",
+            "Evaluate task demands, cultural context and evidence about developmental timing."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        }
+      ]
+    },
+    "cognition": {
+      "title": "Cognition and development",
+      "topic": "cognition",
+      "stem": "<p>A child changes a category after encountering an animal that does not fit their original rule.</p>",
+      "parts": [
+        {
+          "q": "In a separate fictional conservation task, 14 of 20 children give the target response. Calculate the percentage.",
+          "m": 2,
+          "mathMarks": 2,
+          "ms": [
+            "Use 14 / 20 × 100.",
+            "70 %."
+          ],
+          "answer": 70,
+          "unit": "%",
+          "tolerance": 0
+        },
+        {
+          "q": "Explain how a relevant psychological account could interpret this example.",
+          "m": 6,
+          "ms": [],
+          "lor": [
+            [
+              "5–6",
+              "Accurate psychological explanation with clear, developed links to the example."
+            ],
+            [
+              "3–4",
+              "Some accurate explanation and application, but links are uneven or incomplete."
+            ],
+            [
+              "1–2",
+              "Limited knowledge or brief application; mostly labels or assertions."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Accommodation involves modifying a schema rather than fitting new information into it unchanged.",
+            "Changing the schema illustrates accommodation; assimilation would apply the existing framework without that modification.",
+            "Explain the mechanism and link it to a specific detail in the example.",
+            "State a relevant limit or alternative without assuming the example proves the explanation."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        },
+        {
+          "q": "Discuss Piaget’s theory of cognitive development.",
+          "m": 16,
+          "ms": [],
+          "lor": [
+            [
+              "13–16",
+              "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+            ],
+            [
+              "9–12",
+              "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+            ],
+            [
+              "1–4",
+              "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Explain schemas, assimilation, accommodation and equilibration.",
+            "Explain relevant stages and abilities with accurate examples.",
+            "Evaluate task demands, early-competence evidence and cultural variability.",
+            "Distinguish developmental performance from underlying competence."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        }
+      ]
+    },
+    "schizophrenia": {
+      "title": "Schizophrenia",
+      "topic": "schizophrenia",
+      "stem": "<p>A report describes reduced motivation and diminished speech.</p>",
+      "parts": [
+        {
+          "q": "In a separate fictional clinical dataset, 5 of 20 records include a co-occurring condition. Calculate the percentage.",
+          "m": 2,
+          "mathMarks": 2,
+          "ms": [
+            "Use 5 / 20 × 100.",
+            "25 %."
+          ],
+          "answer": 25,
+          "unit": "%",
+          "tolerance": 0
+        },
+        {
+          "q": "Explain how a relevant psychological account could interpret this example.",
+          "m": 6,
+          "ms": [],
+          "lor": [
+            [
+              "5–6",
+              "Accurate psychological explanation with clear, developed links to the example."
+            ],
+            [
+              "3–4",
+              "Some accurate explanation and application, but links are uneven or incomplete."
+            ],
+            [
+              "1–2",
+              "Limited knowledge or brief application; mostly labels or assertions."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Negative symptoms involve reduction or loss of functions rather than symptoms judged morally bad.",
+            "These can illustrate negative-symptom terminology, but the brief description is not enough to establish a diagnosis.",
+            "Explain the mechanism and link it to a specific detail in the example.",
+            "State a relevant limit or alternative without assuming the example proves the explanation."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        },
+        {
+          "q": "Discuss an interactionist approach to explaining and treating schizophrenia.",
+          "m": 16,
+          "ms": [],
+          "lor": [
+            [
+              "13–16",
+              "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+            ],
+            [
+              "9–12",
+              "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+            ],
+            [
+              "1–4",
+              "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Explain vulnerability and stress within a diathesis-stress account.",
+            "Describe biological and psychological processes without assigning blame.",
+            "Explain how combined interventions can target different needs.",
+            "Evaluate evidence, causality, relapse and appropriateness."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        }
+      ]
+    },
+    "eating": {
+      "title": "Eating behaviour",
+      "topic": "eating",
+      "stem": "<p>A child avoids a food after an earlier illness associated with its taste.</p>",
+      "parts": [
+        {
+          "q": "In a separate fictional preference task, 24 of 30 choices are for familiar foods. Calculate the percentage.",
+          "m": 2,
+          "mathMarks": 2,
+          "ms": [
+            "Use 24 / 30 × 100.",
+            "80 %."
+          ],
+          "answer": 80,
+          "unit": "%",
+          "tolerance": 0
+        },
+        {
+          "q": "Explain how a relevant psychological account could interpret this example.",
+          "m": 6,
+          "ms": [],
+          "lor": [
+            [
+              "5–6",
+              "Accurate psychological explanation with clear, developed links to the example."
+            ],
+            [
+              "3–4",
+              "Some accurate explanation and application, but links are uneven or incomplete."
+            ],
+            [
+              "1–2",
+              "Limited knowledge or brief application; mostly labels or assertions."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Eating behaviour reflects interactions between bodily regulation, learning and context.",
+            "Taste aversion can explain avoidance even if the food did not actually cause the illness; alternative exposure and cultural influences may also matter.",
+            "Explain the mechanism and link it to a specific detail in the example.",
+            "State a relevant limit or alternative without assuming the example proves the explanation."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        },
+        {
+          "q": "Discuss explanations of anorexia nervosa.",
+          "m": 16,
+          "ms": [],
+          "lor": [
+            [
+              "13–16",
+              "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+            ],
+            [
+              "9–12",
+              "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+            ],
+            [
+              "1–4",
+              "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Explain relevant genetic or neural accounts.",
+            "Explain family-systems, social-learning or cognitive accounts accurately.",
+            "Evaluate direction of effects, nutritional confounds and sampling.",
+            "Consider interaction rather than blame or single-factor certainty."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        }
+      ]
+    },
+    "stress": {
+      "title": "Stress",
+      "topic": "stress",
+      "stem": "<p>A study links prolonged workplace strain with later cardiovascular outcomes.</p>",
+      "parts": [
+        {
+          "q": "In a separate fictional workplace survey, 8 of 40 respondents describe high workload. Calculate the percentage.",
+          "m": 2,
+          "mathMarks": 2,
+          "ms": [
+            "Use 8 / 40 × 100.",
+            "20 %."
+          ],
+          "answer": 20,
+          "unit": "%",
+          "tolerance": 0
+        },
+        {
+          "q": "Explain how a relevant psychological account could interpret this example.",
+          "m": 6,
+          "ms": [],
+          "lor": [
+            [
+              "5–6",
+              "Accurate psychological explanation with clear, developed links to the example."
+            ],
+            [
+              "3–4",
+              "Some accurate explanation and application, but links are uneven or incomplete."
+            ],
+            [
+              "1–2",
+              "Limited knowledge or brief application; mostly labels or assertions."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Rapid sympathomedullary and slower HPA responses are distinct but interacting stress pathways.",
+            "The association can motivate a physiological explanation, but health behaviours and other variables must be considered before a causal conclusion.",
+            "Explain the mechanism and link it to a specific detail in the example.",
+            "State a relevant limit or alternative without assuming the example proves the explanation."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        },
+        {
+          "q": "Discuss sources and measurement of stress.",
+          "m": 16,
+          "ms": [],
+          "lor": [
+            [
+              "13–16",
+              "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+            ],
+            [
+              "9–12",
+              "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+            ],
+            [
+              "1–4",
+              "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Explain life changes, daily hassles and workplace demands/control.",
+            "Explain self-report and physiological approaches with suitable examples.",
+            "Evaluate recall, cultural meanings, construct validity and specificity.",
+            "Consider converging evidence and alternative interpretations."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        }
+      ]
+    },
+    "aggression": {
+      "title": "Aggression",
+      "topic": "aggression",
+      "stem": "<p>A genetic association is stronger among people exposed to a particular adverse environment.</p>",
+      "parts": [
+        {
+          "q": "In a separate fictional coding exercise, 6 of 24 observed actions meet an aggression category. Calculate the percentage.",
+          "m": 2,
+          "mathMarks": 2,
+          "ms": [
+            "Use 6 / 24 × 100.",
+            "25 %."
+          ],
+          "answer": 25,
+          "unit": "%",
+          "tolerance": 0
+        },
+        {
+          "q": "Explain how a relevant psychological account could interpret this example.",
+          "m": 6,
+          "ms": [],
+          "lor": [
+            [
+              "5–6",
+              "Accurate psychological explanation with clear, developed links to the example."
+            ],
+            [
+              "3–4",
+              "Some accurate explanation and application, but links are uneven or incomplete."
+            ],
+            [
+              "1–2",
+              "Limited knowledge or brief application; mostly labels or assertions."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "A biological risk association does not establish inevitable aggression.",
+            "The pattern is consistent with an interaction and challenges a purely single-gene deterministic account.",
+            "Explain the mechanism and link it to a specific detail in the example.",
+            "State a relevant limit or alternative without assuming the example proves the explanation."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        },
+        {
+          "q": "Discuss social psychological explanations of human aggression.",
+          "m": 16,
+          "ms": [],
+          "lor": [
+            [
+              "13–16",
+              "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+            ],
+            [
+              "9–12",
+              "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+            ],
+            [
+              "1–4",
+              "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Explain frustration-aggression, social learning and de-individuation.",
+            "Use relevant evidence about context and group norms.",
+            "Evaluate operational definitions, causal claims and generalisation.",
+            "Distinguish acquisition of behaviour from its immediate performance."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        }
+      ]
+    },
+    "forensic": {
+      "title": "Forensic Psychology",
+      "topic": "forensic",
+      "stem": "<p>Investigators use a spatial pattern to prioritise an area while continuing other evidence collection.</p>",
+      "parts": [
+        {
+          "q": "In a separate fictional programme, 18 of 30 participants complete all sessions. Calculate the percentage.",
+          "m": 2,
+          "mathMarks": 2,
+          "ms": [
+            "Use 18 / 30 × 100.",
+            "60 %."
+          ],
+          "answer": 60,
+          "unit": "%",
+          "tolerance": 0
+        },
+        {
+          "q": "Explain how a relevant psychological account could interpret this example.",
+          "m": 6,
+          "ms": [],
+          "lor": [
+            [
+              "5–6",
+              "Accurate psychological explanation with clear, developed links to the example."
+            ],
+            [
+              "3–4",
+              "Some accurate explanation and application, but links are uneven or incomplete."
+            ],
+            [
+              "1–2",
+              "Limited knowledge or brief application; mostly labels or assertions."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "A profile can guide an investigation without proving who committed an offence.",
+            "The profile provides probabilistic investigative guidance rather than proof of identity.",
+            "Explain the mechanism and link it to a specific detail in the example.",
+            "State a relevant limit or alternative without assuming the example proves the explanation."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        },
+        {
+          "q": "Discuss psychological explanations of offending behaviour.",
+          "m": 16,
+          "ms": [],
+          "lor": [
+            [
+              "13–16",
+              "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+            ],
+            [
+              "9–12",
+              "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+            ],
+            [
+              "1–4",
+              "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Explain Eysenck’s account, relevant cognitive explanations and differential association.",
+            "Use accurate concepts such as conditioning, moral reasoning and hostile attribution bias.",
+            "Evaluate evidence, measurement and selection of convicted samples.",
+            "Compare mechanisms without inferring that a trait determines offending."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        }
+      ]
+    },
+    "addiction": {
+      "title": "Addiction",
+      "topic": "addiction",
+      "stem": "<p>Two people with a similar inherited vulnerability have different social environments and different outcomes.</p>",
+      "parts": [
+        {
+          "q": "In a separate fictional follow-up, 12 of 40 participants maintain a planned behaviour change. Calculate the percentage.",
+          "m": 2,
+          "mathMarks": 2,
+          "ms": [
+            "Use 12 / 40 × 100.",
+            "30 %."
+          ],
+          "answer": 30,
+          "unit": "%",
+          "tolerance": 0
+        },
+        {
+          "q": "Explain how a relevant psychological account could interpret this example.",
+          "m": 6,
+          "ms": [],
+          "lor": [
+            [
+              "5–6",
+              "Accurate psychological explanation with clear, developed links to the example."
+            ],
+            [
+              "3–4",
+              "Some accurate explanation and application, but links are uneven or incomplete."
+            ],
+            [
+              "1–2",
+              "Limited knowledge or brief application; mostly labels or assertions."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "A risk factor raises probability without guaranteeing development of addiction.",
+            "Vulnerability can interact with experience; a shared genetic factor does not make outcomes inevitable.",
+            "Explain the mechanism and link it to a specific detail in the example.",
+            "State a relevant limit or alternative without assuming the example proves the explanation."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 2 marks; AO2 4 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        },
+        {
+          "q": "Discuss explanations of gambling addiction.",
+          "m": 16,
+          "ms": [],
+          "lor": [
+            [
+              "13–16",
+              "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+            ],
+            [
+              "9–12",
+              "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+            ],
+            [
+              "5–8",
+              "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+            ],
+            [
+              "1–4",
+              "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+            ],
+            [
+              "0",
+              "No creditworthy material."
+            ]
+          ],
+          "ind": [
+            "Explain intermittent and variable reinforcement.",
+            "Explain relevant cognitive biases and mistaken beliefs about chance.",
+            "Use evidence critically and consider selection and direction of effects.",
+            "Evaluate the contribution of context and limits of a single-process explanation."
+          ],
+          "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+        }
+      ]
+    }
+  },
+  "essays": {
+    "social": {
+      "title": "Social influence",
+      "question": {
+        "q": "Discuss explanations for obedience.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Define obedience and distinguish it from conformity.",
+          "Explain agentic state and legitimacy of authority.",
+          "Explain relevant situational variables and a dispositional account.",
+          "Use evidence about proximity, setting, uniform or personality with appropriate methodological evaluation.",
+          "Compare explanatory scope and avoid treating an influence as inevitability."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "memory": {
+      "title": "Memory",
+      "question": {
+        "q": "Discuss the working memory model.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain the central executive, phonological loop, visuo-spatial sketchpad and episodic buffer.",
+          "Distinguish stores, rehearsal and active processing.",
+          "Use dual-task or clinical evidence with attention to alternative explanations.",
+          "Evaluate the specification and testability of the executive and task validity."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "attachment": {
+      "title": "Attachment",
+      "question": {
+        "q": "Discuss the effects of institutionalisation on attachment and later development.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Distinguish institutional disadvantage, separation and deprivation.",
+          "Explain relevant findings from the English and Romanian Adoptees project.",
+          "Consider timing, recovery and continuing difficulties.",
+          "Evaluate confounding variables, longitudinal methods and generalisation.",
+          "Avoid deterministic predictions about an individual child."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "clinical": {
+      "title": "Clinical Psychology and Mental Health",
+      "question": {
+        "q": "Discuss the cognitive approach to explaining and treating depression.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain Beck’s schemas, biases and negative triad.",
+          "Explain Ellis’s ABC model.",
+          "Explain how CBT addresses relevant thinking and behaviour.",
+          "Evaluate evidence, causality, engagement and appropriateness.",
+          "Distinguish treatment success from proof of a complete causal account."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "approaches": {
+      "title": "Approaches in Psychology",
+      "question": {
+        "q": "Discuss social learning theory as an explanation of behaviour.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain modelling, identification and vicarious reinforcement.",
+          "Explain mediational processes and the distinction between learning and performance.",
+          "Use modelling evidence critically.",
+          "Evaluate demand effects, generalisation and the role of cognition.",
+          "Make a developed comparison with another relevant approach."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "biopsych": {
+      "title": "Biopsychology",
+      "question": {
+        "q": "Discuss localisation of function and functional recovery in the brain.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain relevant cortical functions and distributed communication.",
+          "Distinguish localisation from hemispheric lateralisation.",
+          "Explain plasticity and possible recovery processes.",
+          "Evaluate imaging and clinical evidence, causal inference and individual variation.",
+          "Do not equate plasticity with guaranteed full recovery."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "debates": {
+      "title": "Issues and debates",
+      "question": {
+        "q": "Discuss the nature-nurture debate, using examples from Psychology.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Define nature and nurture in terms of biological and environmental influences.",
+          "Explain interactionism using psychological examples.",
+          "Use research evidence to evaluate simple single-factor accounts.",
+          "Consider methodological difficulty in separating inherited and environmental influences.",
+          "Reach a justified, appropriately qualified conclusion."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "relationships": {
+      "title": "Relationships",
+      "question": {
+        "q": "Discuss theories of romantic relationships.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain social exchange, equity and the investment model.",
+          "Distinguish satisfaction, fairness and commitment.",
+          "Use relevant evidence and consider retrospective or correlational designs.",
+          "Evaluate cultural applicability and explanatory scope."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "gender": {
+      "title": "Gender",
+      "question": {
+        "q": "Discuss cognitive explanations of gender development.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain Kohlberg’s identity, stability and constancy distinctions.",
+          "Explain gender schemas and their effects on processing.",
+          "Compare predictions about cognition and behaviour.",
+          "Evaluate task demands, cultural context and evidence about developmental timing."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "cognition": {
+      "title": "Cognition and development",
+      "question": {
+        "q": "Discuss Piaget’s theory of cognitive development.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain schemas, assimilation, accommodation and equilibration.",
+          "Explain relevant stages and abilities with accurate examples.",
+          "Evaluate task demands, early-competence evidence and cultural variability.",
+          "Distinguish developmental performance from underlying competence."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "schizophrenia": {
+      "title": "Schizophrenia",
+      "question": {
+        "q": "Discuss an interactionist approach to explaining and treating schizophrenia.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain vulnerability and stress within a diathesis-stress account.",
+          "Describe biological and psychological processes without assigning blame.",
+          "Explain how combined interventions can target different needs.",
+          "Evaluate evidence, causality, relapse and appropriateness."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "eating": {
+      "title": "Eating behaviour",
+      "question": {
+        "q": "Discuss explanations of anorexia nervosa.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain relevant genetic or neural accounts.",
+          "Explain family-systems, social-learning or cognitive accounts accurately.",
+          "Evaluate direction of effects, nutritional confounds and sampling.",
+          "Consider interaction rather than blame or single-factor certainty."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "stress": {
+      "title": "Stress",
+      "question": {
+        "q": "Discuss sources and measurement of stress.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain life changes, daily hassles and workplace demands/control.",
+          "Explain self-report and physiological approaches with suitable examples.",
+          "Evaluate recall, cultural meanings, construct validity and specificity.",
+          "Consider converging evidence and alternative interpretations."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "aggression": {
+      "title": "Aggression",
+      "question": {
+        "q": "Discuss social psychological explanations of human aggression.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain frustration-aggression, social learning and de-individuation.",
+          "Use relevant evidence about context and group norms.",
+          "Evaluate operational definitions, causal claims and generalisation.",
+          "Distinguish acquisition of behaviour from its immediate performance."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "forensic": {
+      "title": "Forensic Psychology",
+      "question": {
+        "q": "Discuss psychological explanations of offending behaviour.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain Eysenck’s account, relevant cognitive explanations and differential association.",
+          "Use accurate concepts such as conditioning, moral reasoning and hostile attribution bias.",
+          "Evaluate evidence, measurement and selection of convicted samples.",
+          "Compare mechanisms without inferring that a trait determines offending."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "addiction": {
+      "title": "Addiction",
+      "question": {
+        "q": "Discuss explanations of gambling addiction.",
+        "m": 16,
+        "ms": [],
+        "lor": [
+          [
+            "13–16",
+            "Accurate and well-selected knowledge; a coherent, sustained argument with developed evaluation, evidence and a justified conclusion."
+          ],
+          [
+            "9–12",
+            "Generally accurate knowledge with relevant evaluation; the argument is clear but uneven or less fully developed."
+          ],
+          [
+            "5–8",
+            "Some relevant knowledge and evaluation, but important gaps, limited development or unclear links."
+          ],
+          [
+            "1–4",
+            "Limited relevant material; mostly descriptive, fragmented or inaccurate."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Explain intermittent and variable reinforcement.",
+          "Explain relevant cognitive biases and mistaken beliefs about chance.",
+          "Use evidence critically and consider selection and direction of effects.",
+          "Evaluate the contribution of context and limits of a single-process explanation."
+        ],
+        "note": "Original Prodigy indicative scheme · AO1 6 marks; AO3 10 marks. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    },
+    "methods": {
+      "title": "Research methods · Design",
+      "question": {
+        "q": "Describe a suitable design and explain how your procedure would provide an interpretable comparison.",
+        "m": 12,
+        "ms": [],
+        "lor": [
+          [
+            "9–12",
+            "Detailed, feasible and coherent design; relevant decisions are applied and justified throughout."
+          ],
+          [
+            "5–8",
+            "Generally appropriate applied design with some explanation, but important details or justifications are missing."
+          ],
+          [
+            "1–4",
+            "Limited or fragmented design; few applied details and weak control of alternative explanations."
+          ],
+          [
+            "0",
+            "No creditworthy material."
+          ]
+        ],
+        "ind": [
+          "Operationalise music/silence and a measurable recall score at a fixed delay.",
+          "Justify an independent-groups or repeated-measures design.",
+          "Explain allocation or counterbalancing and address equivalent word lists.",
+          "Specify a feasible sample, recruitment and standardised instructions.",
+          "Control timing, volume, exposure and other plausible confounds.",
+          "Plan consent, withdrawal, debriefing and appropriate data handling.",
+          "Describe recording, a suitable descriptive summary and a justified inferential comparison.",
+          "State limits to generalisation and causal inference."
+        ],
+        "note": "Original Prodigy indicative scheme · AO2 12 marks: credit an applied, coherent design rather than a list of disconnected labels.. Choose the best-fitting level, then a mark within it. Indicative content is not a point-per-mark checklist; credit other accurate, relevant material."
+      }
+    }
+  }
+}

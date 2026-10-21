@@ -1,0 +1,29 @@
+{
+  "framework": "Prodigy ALevelBiology, current corrected lesson/account engine",
+  "content": "Original Prodigy teaching summaries and practice questions",
+  "specification": "AQA 7182, updated for first A Level exams in 2027",
+  "checked": "2026-10-21",
+  "options": "All nine options; no school combination assumed",
+  "sources": [
+    {
+      "title": "AQA 7182 current qualification and specification",
+      "url": "https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182"
+    },
+    {
+      "title": "AQA assessment structure",
+      "url": "https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification/specification-at-a-glance"
+    },
+    {
+      "title": "Introductory topics in Psychology",
+      "url": "https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification/subject-content/introductory-topics-in-psychology"
+    },
+    {
+      "title": "Psychology in context",
+      "url": "https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification/subject-content/psychology-in-context"
+    },
+    {
+      "title": "Issues and all nine options",
+      "url": "https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification/subject-content/issues-and-options-in-psychology"
+    }
+  ]
+}
