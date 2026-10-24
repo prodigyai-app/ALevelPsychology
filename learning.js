@@ -45,7 +45,7 @@
  LAB.boot({list:true,units,groups:units.flatMap(u=>u.groups),hubIntro:meta.intro,onRoute:()=>queueMicrotask(filterOptions)});LEARN.mark();
  const selection=PSY_SELECTION,showAll=store.get(key+'show-all-options')!==false;
  const controls=document.createElement('section');controls.className='lcard psych-options';controls.setAttribute('aria-label','Choose your Psychology course options');controls.innerHTML=`<h2>Your course options</h2><p>Select one taught topic from each group to generate your Paper 3 practice paper.</p><div class="bio-controls">${[1,2,3].map(n=>`<label for="psych-option-${n}">Option group ${n}<select id="psych-option-${n}"><option value="">Choose your taught topic</option>${PSY_OPTION_GROUPS[n].map(id=>`<option value="${id}" ${selection[n]===id?'selected':''}>${esc(COURSE.units.find(u=>u.id===id).title)}</option>`).join('')}</select></label>`).join('')}</div><label class="check"><input type="checkbox" id="psych-show-all" ${showAll?'checked':''}> Show all nine optional topics</label><p class="muted">Changing options keeps existing answers; each Paper 3 combination has separate saved progress.</p>`;
- function placeOptions(){const paper=$('#hub-cards [data-go="u-papers"]');if(paper)paper.before(controls);else $('#hub-cards').append(controls);}
+ function placeOptions(){if(controls.closest('.simple-tools-panel'))return;const paper=$('#hub-cards [data-go="u-papers"]');if(paper)paper.before(controls);else $('#hub-cards').append(controls);}
  controls.style.gridColumn='1 / -1';
  placeOptions();
  [1,2,3].forEach(n=>$('#psych-option-'+n).onchange=e=>{selection[n]=e.target.value;store.set(key+'options',selection);location.reload();});
